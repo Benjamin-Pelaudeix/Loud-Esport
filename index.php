@@ -12,10 +12,29 @@
     <?php include('./php/header.php') ?>
     <div class="home">
         <div class="panel">
-            <div class="tab large" id="shop"></div>
-            <div class="tab medium" id="twitter"></div>
-            <div class="tab medium" id="twitch"></div>
-            <div class="tab medium" id="discord"></div>
+            <div class="tab large" id="shop">
+            <img src="./images/Maillot_loud-01.png" alt="Maillot">
+            <p class="tab-title">Portez nos couleurs</p>
+                <a href="https://eliminate.fr/product-category/loud-esport/">
+                    <div class="button">
+                        <p><i class="fas fa-shopping-cart"></i> Commander</p>
+                    </div>
+                </a>
+            </div>
+            <div class="tab small">
+                <p class="tab-title">Notre actualité</p>
+                <a class="button" href="https://twitter.com/EsportLoud" data-size="large"><i class="fab fa-twitter"></i> Suivre</a>
+                <a href="https://discord.gg/YPXdEEy" class="button"><i class="fab fa-discord"></i> Rejoindre</a>
+            </div>
+            <div class="tab medium">
+                <p class="tab-title">Nos directs</p>
+                <p id="status"></p>
+                <p id="twitch-title"></p>
+                <div class="buttons">
+                    <a href="https://www.twitch.tv/loudesporttv" class="button" id="follow"><i class="fas fa-user-friends"></i> Suivre</a>
+                    <a href="./live.php" class="button" id="join"><i class="fas fa-play"></i> Rejoindre</a>
+                </div>
+            </div>
         </div>
     </div>
     <?php include('./php/footer.php') ?>

@@ -1,6 +1,6 @@
 let embed = new Twitch.Embed("twitch-embed", {
-    width: document.body.clientWidth,
-    height: document.body.clientHeight,
+    width: screen.width,
+    height: screen.height,
     channel: "loudesporttv",
     autoplay: false
   });

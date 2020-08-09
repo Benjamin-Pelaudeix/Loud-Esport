@@ -90,7 +90,7 @@ nav a:hover {
 /*body*/
 body {
     overflow-x: hidden;
-    background-color: black;
+    background-color: rgb(27, 27, 27);
 }
 /*index*/
 .panel {
@@ -102,29 +102,72 @@ body {
     border: 1px solid #a81b1b;
     height: 50vh;
     text-align: center;
-    filter: grayscale(100%);
     background-size: cover;
     background-position: center;
+    color: white;
+    font-family: "Metropolis Black";
+    text-transform: uppercase;
+    display: flex;
 }
-.tab:hover {
-    filter: grayscale(0%);
-    transition: cubic-bezier(0.68, -0.55, 0.265, 1.55);
-    cursor: pointer;
+.tab-title {
+    font-size: 70px;
+}
+.tab a {
+    text-decoration: none;
+}
+.tab img {
+    height: 80%;
+    width: auto;
 }
 .large {
-    grid-column-start: span 3;
+    grid-column-start: span 3; 
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
 }
-#shop {
-    background-image: url(../images/boutique.jpg);
+.medium {
+    grid-column-start: span 2;
 }
-#twitter {
-    background-image: url(../images/twitter.jpg);
+.small, .medium {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
-#twitch {
-    background-image: url(../images/twitch.jpg);
+.small .tab-title, .medium .tab-title {
+    margin-bottom: 20px;
 }
-#discord {
-    background-image: url(../images/discord.jpg);
+.medium p {
+    margin-bottom: 15px;
+}
+.medium p:last-child {
+    margin-bottom: 30px;
+}
+.button {
+    width: fit-content;
+    height: fit-content;
+    background-color: white;
+    padding: 15px;
+    font-size: 30px;
+    border-radius: 10px;
+    color: #a81b1b;
+    margin-bottom: 15px;
+}
+.button:last-child {
+    margin-bottom: 0;
+}
+.button:hover {
+    background-color: #a81b1b;
+    color: white;
+    transition: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+#status {
+    font-size: 30px;
+}
+#twitch-title {
+    font-size: 25px;
+}
+#join {
+    display: none;
 }
 /*footer*/
 footer {
