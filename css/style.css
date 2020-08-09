@@ -65,7 +65,7 @@ nav ul {
 }
 nav li {
     list-style-type: none;
-    margin-right: 55px;
+    margin-right: 45px;
 }
 nav li:last-child {
     margin-right: 0;
@@ -75,6 +75,11 @@ nav a {
     color: white;
     font-family: "Metropolis Thin Italic";
     font-size: 24px;
+    padding: 10px;
+    border-radius: 10px;
+}
+nav a:hover {
+    background-color: #e45151;
 }
 /*body*/
 body {
@@ -97,6 +102,7 @@ body {
 .tab:hover {
     filter: grayscale(0%);
     transition: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+    cursor: pointer;
 }
 .large {
     grid-column-start: span 3;
