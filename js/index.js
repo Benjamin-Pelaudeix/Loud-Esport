@@ -12,3 +12,8 @@ const tabDiscord = document.getElementById('discord');
 tabDiscord.addEventListener('click', function() {
     document.location.href = 'https://discord.com/invite/QzgpyDk';
 });
+
+const tabShop = document.getElementById('shop');
+tabShop.addEventListener('click', function() {
+    document.location.href = 'https://eliminate.fr/product-category/loud-esport/';
+});

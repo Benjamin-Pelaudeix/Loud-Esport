@@ -29,6 +29,12 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: "Metropolis Regular Italic";
+    src: url(../fonts/Metropolis-RegularItalic.otf);
+    font-weight: normal;
+    font-style: normal;
+}
 /*style*/
 /*header*/
 header {
@@ -73,7 +79,7 @@ nav li:last-child {
 nav a {
     text-decoration: none;
     color: white;
-    font-family: "Metropolis Thin Italic";
+    font-family: "Metropolis Regular Italic";
     font-size: 24px;
     padding: 10px;
     border-radius: 10px;
