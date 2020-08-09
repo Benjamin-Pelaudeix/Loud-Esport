@@ -6,7 +6,7 @@
     <nav>
         <ul>
             <li>
-                <a href="#">Accueil</a>
+                <a href="./index.php">Accueil</a>
             </li>
             <li>
                 <a href="#">Club</a>

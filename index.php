@@ -19,6 +19,7 @@
         </div>
     </div>
     <?php include('./php/footer.php') ?>
+    <script src="./js/index.js"></script>
     <script src="./js/footer.js"></script>
 </body>
 </html>
