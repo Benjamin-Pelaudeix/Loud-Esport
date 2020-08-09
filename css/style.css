@@ -76,9 +76,43 @@ nav a {
     font-family: "Metropolis Thin Italic";
     font-size: 24px;
 }
+/*body*/
+body {
+    overflow-x: hidden;
+}
 /*index*/
-
-
+.panel {
+    width: 100vw;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.tab {
+    border: 1px solid #a81b1b;
+    height: 50vh;
+    text-align: center;
+    filter: grayscale(100%);
+    background-size: cover;
+    background-position: center;
+}
+.tab:hover {
+    filter: grayscale(0%);
+    transition: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+}
+.large {
+    grid-column-start: span 3;
+}
+#shop {
+    background-image: url(../images/boutique.jpg);
+}
+#twitter {
+    background-image: url(../images/twitter.jpg);
+}
+#twitch {
+    background-image: url(../images/twitch.jpg);
+}
+#discord {
+    background-image: url(../images/discord.jpg);
+}
 /*footer*/
 footer {
     background-color: #a81b1b;

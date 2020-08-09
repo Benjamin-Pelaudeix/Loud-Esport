@@ -10,7 +10,14 @@
 </head>
 <body>
     <?php include('./php/header.php') ?>
-
+    <div class="home">
+        <div class="panel">
+            <div class="tab large" id="shop"></div>
+            <div class="tab medium" id="twitter"></div>
+            <div class="tab medium" id="twitch"></div>
+            <div class="tab medium" id="discord"></div>
+        </div>
+    </div>
     <?php include('./php/footer.php') ?>
     <script src="./js/footer.js"></script>
 </body>
