@@ -15,7 +15,7 @@
                 <a href="#">Équipes</a>
             </li>
             <li>
-                <a href="#">Live</a>
+                <a href="./live.php">Live</a>
             </li>
             <li>
                 <a href="#">Boutique</a>

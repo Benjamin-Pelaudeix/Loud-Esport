@@ -11,8 +11,8 @@
     <div class="right-part">
         <div class="categories">
             <h2>Contacts</h2>
-            <a href="#">E-Mail</a>
-            <a href="#">Twitter</a>
+            <a href="mailto:loudesport@gmail.com">E-Mail</a>
+            <a href="https://www.twitter.com/EsportLoud">Twitter</a>
         </div>
         <div class="categories">
             <h2>Conditions</h2>

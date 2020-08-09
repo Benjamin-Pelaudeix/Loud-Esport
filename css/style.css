@@ -90,6 +90,7 @@ nav a:hover {
 /*body*/
 body {
     overflow-x: hidden;
+    background-color: black;
 }
 /*index*/
 .panel {
@@ -182,4 +183,7 @@ footer .categories h2 {
 footer .categories a {
     margin: 0;
     font-size: 20px;
+}
+footer .categories a:hover {
+    text-decoration: underline;
 }
