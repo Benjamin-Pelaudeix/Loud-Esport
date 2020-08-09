@@ -1,0 +1,23 @@
+<footer>
+    <div class="social">
+        <h2>Suivez-nous</h2>
+        <div class="links">
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-discord"></i></a>
+            <a href="#"><i class="fab fa-twitch"></i></a>
+        </div>
+        <p>Tous droits réservés - Loud Esport - <span id="date"></span> - Hébergé par Synhostinger</p>
+    </div>
+    <div class="right-part">
+        <div class="categories">
+            <h2>Contacts</h2>
+            <a href="#">E-Mail</a>
+            <a href="#">Twitter</a>
+        </div>
+        <div class="categories">
+            <h2>Conditions</h2>
+            <a href="#">Mentions légales</a>
+            <a href="#">CGU</a>
+        </div>
+    </div>
+</footer>

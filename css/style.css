@@ -1,0 +1,139 @@
+/*reset*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*fonts*/
+@font-face {
+    font-family: "Metropolis Black";
+    src: url(../fonts/Metropolis-Black.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Metropolis Thin Italic";
+    src: url(../fonts/Metropolis-ThinItalic.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Metropolis Medium Italic";
+    src: url(../fonts/Metropolis-MediumItalic.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Metropolis Thin";
+    src: url(../fonts/Metropolis-Thin.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+/*style*/
+/*header*/
+header {
+    background-color: #a81b1b;
+    padding: 5px 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+header .logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+header img {
+    width: 85px;
+    height: auto;
+}
+header h1 {
+    font-family: "Metropolis Black";
+    color: white;
+    text-transform: uppercase;
+    font-size: 5rem;
+    margin-left: 15px;
+}
+nav {
+    width: fit-content;
+}
+nav ul {
+    display: flex;
+    flex-direction: row;
+}
+nav li {
+    list-style-type: none;
+    margin-right: 55px;
+}
+nav li:last-child {
+    margin-right: 0;
+}
+nav a {
+    text-decoration: none;
+    color: white;
+    font-family: "Metropolis Thin Italic";
+    font-size: 24px;
+}
+/*index*/
+
+
+/*footer*/
+footer {
+    background-color: #a81b1b;
+    color: white;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+footer h2 {
+    font-family: "Metropolis Medium Italic";
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+    font-weight: normal;
+}
+footer i {
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+footer i:last-child {
+    margin-right: 0;
+}
+footer a {
+    font-family: "Metropolis Thin";
+    text-decoration: none;
+    color: white;
+    margin-right: 15px;
+}
+footer p {
+    font-family: "Metropolis Thin Italic";
+    font-size: 10px;
+}
+footer .right-part {
+    display: flex;
+    flex-direction: row;
+}
+footer .categories {
+    display: flex;
+    flex-direction: column;
+    border-right: 2px solid white;
+    padding-right: 5px;
+    width: fit-content;
+    text-align: right;
+    line-height: 2rem;
+    margin-right: 50px;
+}
+footer .categories:last-child {
+    margin-right: 0;
+}
+footer .categories h2 {
+    margin: 0;
+}
+footer .categories a {
+    margin: 0;
+    font-size: 20px;
+}
