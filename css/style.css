@@ -90,7 +90,9 @@ nav a:hover {
 /*body*/
 body {
     overflow-x: hidden;
-    background-color: rgb(27, 27, 27);
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    background-position: center;
 }
 /*index*/
 .panel {
