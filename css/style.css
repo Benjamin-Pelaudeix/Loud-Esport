@@ -117,6 +117,7 @@ body {
     color: white;
     font-size: 30px;
     text-align: justify;
+    margin-bottom: 20px;
 }
 .container a {
     color: #a81b1b;
@@ -208,6 +209,13 @@ body {
 #join {
     display: none;
 }
+/*club*/
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-bottom: 30px;
+}
 /*team*/
 .team {
     margin-top: 10px;
@@ -250,6 +258,8 @@ body {
 }
 .player-role {
     font-family: "Metropolis Thin Italic";
+    text-transform: uppercase;
+    font-size: 20px;
 }
 .player a {
     color: white;
@@ -285,10 +295,15 @@ body {
     text-align: center;
     line-height: 3rem;
     padding-bottom: 20px;
+    padding-top: 20px;
 }
 .product-card img {
     width: 300px;
     height: auto;
+}
+.product-card #image {
+    font-size: 17rem;
+    color: #a81b1b;
 }
 .product-card h2 {
     font-family: "Metropolis Black";
@@ -377,4 +392,107 @@ footer .categories a {
 }
 footer .categories a:hover {
     text-decoration: underline;
+}
+/*nav mobile*/
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    background-color: #a81b1b;
+    font-family: "Metropolis Regular";
+    text-transform: uppercase;
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    padding: 5px 15px;
+    display: none;
+}
+.nav a {
+    color: white;
+    text-decoration: none;
+}
+/*responsive*/
+@media screen and (max-width:1456px) {
+    header h1 {
+        font-size: 2.5rem;
+    }
+}
+@media screen and (max-width:1256px) {
+    .player {
+        width: 100%;
+    }
+    .products {
+        flex-direction: column;
+    }
+    .product-card {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+@media screen and (max-width:1163px) {
+    header {
+        justify-content: center;
+    }
+    nav {
+        display: none;
+    }
+    .nav {
+        display: flex;
+    }
+    footer {
+        margin-bottom: 40px;
+    }
+}
+@media screen and (max-width:994px) {
+    .panel {
+        display: flex;
+        flex-direction: column;
+    }
+    .tab {
+        width: 100vw;
+        flex-direction: column;
+        padding-bottom: 50px;
+    }
+    .tab-title {
+        margin-bottom: 20px;
+    }
+}
+@media screen and (max-width:880px) {
+    .tab-title {
+        font-size: 40px;
+    }
+}
+@media screen and (max-width:845px) {
+    .buttons {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .container {
+        margin: 50px 50px;
+    }
+    .container .title {
+        font-size: 40px;
+    }
+}
+@media screen and (max-width:830px) {
+    .player {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+@media screen and (max-width:710px) {
+    footer {
+        flex-direction: column;
+        text-align: center;
+    }
+    footer .social {
+        margin-bottom: 20px;
+    }
+}
+@media screen and (max-width:510px) {
+    header h1 {
+        display: none;
+    }
 }

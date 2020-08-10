@@ -47,7 +47,9 @@
                         <p class="player-name">Whjps</p>
                         <p class="player-role">Manager</p>
                     </div>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="https://twitter.com/Loud_Whjps"><i class="fab fa-twitter"></i></a>
+                    <a href="https://twitch.tv/Whjps"><i class="fab fa-twitch"></i></a>
+                    <a href="https://www.youtube.com/channel/UC_tbTHHW_XT7J5lnjRiT8vQ"><i class="fab fa-youtube"></i></a>
                 </div>
                 <div class="player">
                     <div class="play-infos">
@@ -92,6 +94,7 @@
                         <p class="player-role">Manager</p>
                     </div>
                     <a href="https://twitter.com/NeozZLD"><i class="fab fa-twitter"></i></a>
+                    <a href="https://twitch.tv/neozzld"><i class="fab fa-twitch"></i></a>
                 </div>
                 <div class="player">
                     <div class="player-infos">
@@ -161,6 +164,7 @@
         </div>
     </div>
     <?php include('./php/footer.php') ?>
+    <?php include('./php/nav-mobile.php') ?>
     <script src="./js/footer.js"></script>
 </body>
 </html>

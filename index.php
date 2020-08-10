@@ -31,13 +31,14 @@
                 <p id="status"></p>
                 <p id="twitch-title"></p>
                 <div class="buttons">
-                    <a href="https://www.twitch.tv/loudesporttv" class="button" id="follow"><i class="fas fa-user-friends"></i> Suivre</a>
+                    <a href="https://www.twitch.tv/loudesporttv" class="button" id="follow"><i class="fas fa-user-plus"></i> Suivre</a>
                     <a href="./live.php" class="button" id="join"><i class="fas fa-play"></i> Rejoindre</a>
                 </div>
             </div>
         </div>
     </div>
     <?php include('./php/footer.php') ?>
+    <?php include('./php/nav-mobile.php') ?>
     <script src="./js/index.js"></script>
     <script src="./js/footer.js"></script>
 </body>
