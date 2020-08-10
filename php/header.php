@@ -9,10 +9,10 @@
                 <a href="./index.php">Accueil</a>
             </li>
             <li>
-                <a href="#">Club</a>
+                <a href="./club.php">Club</a>
             </li>
             <li>
-                <a href="#">Équipes</a>
+                <a href="./team.php">Équipes</a>
             </li>
             <li>
                 <a href="./live.php">Live</a>

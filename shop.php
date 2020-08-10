@@ -12,7 +12,7 @@
     <?php include('./php/header.php') ?>
     <div class="container">
         <h1 class="title">La boutique</h1>
-        <p>Si vous souhaitez nous soutenir et porter nos couleurs, nous vous proposons notre gamme de produit en partenariat avec <a href="#">LMN8</a></p>
+        <p class="infos">Si vous souhaitez nous soutenir et porter nos couleurs, nous vous proposons notre gamme de produit en partenariat avec <a href="#">LMN8</a></p>
         <div class="products">
             <div class="product-card">
                 <img src="./images/Maillot_loud-01.png" alt="Maillot 2019-2020">
@@ -30,5 +30,6 @@
     </div>
     <?php include('./php/footer.php') ?>
     <script src="./js/shop.js"></script>
+    <script src="./js/footer.js"></script>
 </body>
 </html>

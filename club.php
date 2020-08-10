@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,10 +10,11 @@
 </head>
 <body>
     <?php include('./php/header.php') ?>
-    <div id="twitch-embed"></div>
+    <div class="container">
+        <h1 class="title">Le club</h1>
+        <p class="infos">Loud Esport est une association e-sportive créée en Juin 2018 ayant pour but d'accompagner les jeunes pandas dans leur carrière de joueur compétitif.</p>
+    </div>
     <?php include('./php/footer.php') ?>
-    <script src="https://embed.twitch.tv/embed/v1.js"></script>
-    <script src="./js/twitch.js"></script>
     <script src="./js/footer.js"></script>
 </body>
 </html>

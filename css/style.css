@@ -112,7 +112,7 @@ body {
     font-size: 60px;
     margin-bottom: 30px;
 }
-.container p {
+.container .infos {
     font-family: "Metropolis Regular";
     color: white;
     font-size: 30px;
@@ -208,6 +208,68 @@ body {
 #join {
     display: none;
 }
+/*team*/
+.team {
+    margin-top: 10px;
+    padding: 20px;
+}
+.team-title {
+    font-family: "Metropolis Black";
+    font-size: 50px;
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 3px 2px #a81b1b;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.team-subtitle {
+    font-family: "Metropolis Regular Italic";
+    text-align: center;
+}
+.players {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+.player {
+    padding: 5px 15px;
+    width: 400px;
+    border: 2px solid white;
+    margin-bottom: 10px;
+    background-color: rgb(168, 27, 27, 0.65);
+    font-family: "Metropolis Regular";
+    font-size: 30px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.player-role {
+    font-family: "Metropolis Thin Italic";
+}
+.player a {
+    color: white;
+    font-size: 35px;
+}
+#fifa {
+    background-image: url(../images/fifa.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#hs {
+    background-image: url(../images/hs.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#tm {
+    background-image: url(../images/tm.jpg);
+    background-size: cover;
+    background-position: center;
+}
 /*shop*/
 .products {
     display: flex;
@@ -243,6 +305,10 @@ body {
 .product-card .button {
     text-decoration: none;
     border: 1px solid #a81b1b;
+}
+.product-info {
+    font-family: "Metropolis Thin";
+    font-size: 25px;
 }
 #wait-btn:hover {
     background-color: grey;
