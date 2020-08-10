@@ -453,9 +453,8 @@ footer .categories a:hover {
         flex-direction: column;
     }
     .tab {
-        width: 100vw;
+        height: 1500px;
         flex-direction: column;
-        padding-bottom: 50px;
     }
     .tab-title {
         margin-bottom: 20px;
@@ -464,6 +463,9 @@ footer .categories a:hover {
 @media screen and (max-width:880px) {
     .tab-title {
         font-size: 40px;
+    }
+    .tab img {
+        width: 40%;
     }
 }
 @media screen and (max-width:845px) {
