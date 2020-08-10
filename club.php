@@ -75,8 +75,8 @@
                 <h2>Synhostinger</h2>
                 <p class="product-info">Synhostinger est une entreprise française proposant des solutions d'hébergements pour site Web ou serveurs privés virtuels (VPS) avec des tarifs défiant toutes concurrences.<br>Faites un tour sur leur site pour découvrir leurs produits, et rejoignez leur Discord !</p>
                 <div class="buttons">
-                    <a href="#" class="button"><i class="fas fa-globe"></i> Site Web</a>
-                    <a href="#" class="button"><i class="fab fa-discord"></i> Discord</a>
+                    <a href="https://www.synhostinger.com/accueil" class="button"><i class="fas fa-globe"></i> Site Web</a>
+                    <a href="https://discord.gg/MMBWqDM" class="button"><i class="fab fa-discord"></i> Discord</a>
                 </div>
             </div>
             <div class="product-card">
