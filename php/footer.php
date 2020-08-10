@@ -2,9 +2,9 @@
     <div class="social">
         <h2>Suivez-nous</h2>
         <div class="links">
-            <a href="#"><i class="fab fa-twitter"></i></a>
-            <a href="#"><i class="fab fa-discord"></i></a>
-            <a href="#"><i class="fab fa-twitch"></i></a>
+            <a href="https://www.twitter.com/EsportLoud"><i class="fab fa-twitter"></i></a>
+            <a href="https://discord.com/invite/YPXdEEy"><i class="fab fa-discord"></i></a>
+            <a href="https://www.twitch.tv/loudesporttv"><i class="fab fa-twitch"></i></a>
         </div>
         <p>Tous droits réservés - Loud Esport - <span id="date"></span> - Hébergé par Synhostinger</p>
     </div>
