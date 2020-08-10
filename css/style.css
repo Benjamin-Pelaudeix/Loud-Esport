@@ -248,6 +248,9 @@ body {
     background-color: grey;
     border-color: grey;
 }
+#new {
+    display: none;
+}
 /*footer*/
 footer {
     background-color: #a81b1b;
