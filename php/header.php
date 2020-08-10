@@ -18,7 +18,7 @@
                 <a href="./live.php">Live</a>
             </li>
             <li>
-                <a href="#">Boutique</a>
+                <a href="./shop.php">Boutique</a>
             </li>
         </ul>
     </nav>
