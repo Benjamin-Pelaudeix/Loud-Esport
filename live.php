@@ -12,7 +12,7 @@
     <?php include('./php/header.php') ?>
     <div id="twitch-embed"></div>
     <?php include('./php/footer.php') ?>
-    <?php include('./php/nav-mobile') ?>
+    <?php include('./php/nav-mobile.php') ?>
     <script src="https://embed.twitch.tv/embed/v1.js"></script>
     <script src="./js/twitch.js"></script>
     <script src="./js/footer.js"></script>

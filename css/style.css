@@ -472,7 +472,7 @@ footer .categories a:hover {
         font-size: 15px;
     }
     .tab {
-        height: 750px;
+        height: 100vh;
     }
 }
 @media screen and (max-width:845px) {
@@ -508,5 +508,17 @@ footer .categories a:hover {
 @media screen and (max-width:510px) {
     header h1 {
         display: none;
+    }
+}
+@media screen and (max-width:461px) {
+    .product-card img {
+        width: 150px;
+        height: auto;
+    }
+    .product-card #image {
+        font-size: 50px;
+    }
+    .container .title {
+        font-size: 30px;
     }
 }
