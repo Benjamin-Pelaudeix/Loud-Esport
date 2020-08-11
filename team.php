@@ -11,7 +11,7 @@
 <body>
     <?php include('./php/header.php') ?>
     <div class="container">
-        <h1 class="title">Nos pandas</h1>
+        <h1 class="title">Nos pandas roux</h1>
         <p class="infos">Jeunes comme expérimentés, nos pandas donnent tout pour le groupe ! Sur les terrains, les tables de jeux ou en voiture, ils se battent jusqu'au bout pour ramener le trophée à la maison. Découvrez-les !</p>
         <div class="team" id="fifa">
             <h2 class="team-title">FIFA <i class="fas fa-futbol"></i></h2>
