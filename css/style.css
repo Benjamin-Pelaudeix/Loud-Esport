@@ -472,7 +472,7 @@ footer .categories a:hover {
         font-size: 15px;
     }
     .tab {
-        height: 100vh;
+        height: 70vh;
     }
 }
 @media screen and (max-width:845px) {
