@@ -77,7 +77,7 @@
                 </div>
                 <div class="player">
                     <div class="player-infos">
-                        <p class="player-name">SupoSitWar</p>
+                        <p class="player-name">SupoZitWar</p>
                         <p class="player-role">Joueur</p>
                     </div>
                     <a href="https://www.twitter.com/Loud_SupoZitWar"><i class="fab fa-twitter"></i></a>

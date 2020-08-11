@@ -466,6 +466,13 @@ footer .categories a:hover {
     }
     .tab img {
         width: 40%;
+        height: auto;
+    }
+    .button {
+        font-size: 15px;
+    }
+    .tab {
+        height: 750px;
     }
 }
 @media screen and (max-width:845px) {
@@ -491,6 +498,11 @@ footer .categories a:hover {
     }
     footer .social {
         margin-bottom: 20px;
+    }
+}
+@media screen and (max-width:608px) {
+    .team-title {
+        font-size: 25px;
     }
 }
 @media screen and (max-width:510px) {
