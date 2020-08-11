@@ -28,14 +28,15 @@
                         <p class="player-name">Magman</p>
                         <p class="player-role">Joueur</p>
                     </div>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="https://twitter.com/magmanxfifa"><i class="fab fa-twitter"></i></a>
+                    <a href="https://www.twitch.tv/loudmagman"><i class="fab fa-twitch"></i></a>
                 </div>
                 <div class="player">
                     <div class="player-infos">
                         <p class="player-name">Stenzak</p>
                         <p class="player-role">Joueur</p>
                     </div>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="https://twitter.com/Loud_Stenzak"><i class="fab fa-twitter"></i></a>
                 </div>
             </div>
         </div>
@@ -56,7 +57,7 @@
                         <p class="player-name">Tolosmoc</p>
                         <p class="player-role">Manager</p>
                     </div>
-                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="https://twitter.com/Loud_Tolosmoc"><i class="fab fa-twitter"></i></a>
                 </div>
                 <div class="player">
                     <div class="player-infos">
