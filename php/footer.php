@@ -16,8 +16,8 @@
         </div>
         <div class="categories">
             <h2>Conditions</h2>
-            <a href="#">Mentions légales</a>
-            <a href="#">CGU</a>
+            <a href="./documents/Mentions-Legales.pdf">Mentions légales</a>
+            <a href="./documents/CGU.pdf">CGU</a>
         </div>
     </div>
 </footer>
