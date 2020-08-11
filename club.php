@@ -73,7 +73,7 @@
             <div class="product-card">
                 <img src="./images/synhostinger.jpg" alt="">
                 <h2>Synhostinger</h2>
-                <p class="product-info">Synhostinger est une entreprise française proposant des solutions d'hébergements pour site Web ou serveurs privés virtuels (VPS) avec des tarifs défiant toutes concurrences.<br>Faites un tour sur leur site pour découvrir leurs produits, et rejoignez leur Discord !</p>
+                <p class="product-info sponsor">Synhostinger est une entreprise française proposant des solutions d'hébergements pour site Web ou serveurs privés virtuels (VPS) avec des tarifs défiant toutes concurrences.<br>Faites un tour sur leur site pour découvrir leurs produits, et rejoignez leur Discord !</p>
                 <div class="buttons">
                     <a href="https://www.synhostinger.com/accueil" class="button"><i class="fas fa-globe"></i> Site Web</a>
                     <a href="https://discord.gg/MMBWqDM" class="button"><i class="fab fa-discord"></i> Discord</a>
@@ -82,7 +82,7 @@
             <div class="product-card">
                 <i class="fas fa-handshake" id="image"></i>
                 <h2>Devenir partenaire</h2>
-                <p class="product-info">Vous pouvez, en nous contactant, devenir un nouveau partenaire de notre association ! De ce fait, vous pourrez profiter d'une visibilité maximale grâce à nos réseaux sociaux fort de +3000 followers. De plus, vous profiterez de grilles tarifaires faites pour vous, suivant la mise en avant souhaitée.<br> N'attendez plus, rejoignez-nous !</p>
+                <p class="product-info sponsor">Vous pouvez, en nous contactant, devenir un nouveau partenaire de notre association ! De ce fait, vous pourrez profiter d'une visibilité maximale grâce à nos réseaux sociaux fort de +3000 followers. De plus, vous profiterez de grilles tarifaires faites pour vous, suivant la mise en avant souhaitée.<br> N'attendez plus, rejoignez-nous !</p>
                 <div class="buttons">
                     <a href="./documents/Dossier_sponsoring_fr.pdf" class="button"><i class="fas fa-folder-open"></i> Dossier</a>
                     <a href="mailto:loudesport@gmail.com" class="button"><i class="fas fa-envelope"></i> Contact</a>

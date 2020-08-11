@@ -216,6 +216,9 @@ body {
     justify-content: space-around;
     margin-bottom: 30px;
 }
+.product-card .sponsor {
+    text-align: justify;
+}
 /*team*/
 .team {
     margin-top: 10px;
@@ -504,6 +507,9 @@ footer .categories a:hover {
     .team-title {
         font-size: 25px;
     }
+    .container {
+        margin: 50px 15px;
+    }
 }
 @media screen and (max-width:510px) {
     header h1 {
@@ -520,5 +526,11 @@ footer .categories a:hover {
     }
     .container .title {
         font-size: 30px;
+    }
+    .container .infos {
+        font-size: 20px;
+    }
+    .container p {
+        font-size: 20px;
     }
 }
