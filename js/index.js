@@ -17,7 +17,6 @@ request.onreadystatechange = function() {
         else {
             twitchStatus.innerHTML = '<i class="fas fa-video"></i> Live';
             twitchStatus.style.color = '#a81b1b';
-            twitchTitle.textContent = response.data.title;
             joinButton.style.display = 'unset';
         }
     }
