@@ -137,6 +137,15 @@
                 </div>
                 <div class="player">
                     <div class="player-infos">
+                        <p class="player-name">Razii</p>
+                        <p class="player-role">Joueur</p>
+                    </div>
+                    <a href="https://twitter.com/raziinho"><i class="fab fa-twitter"></i></a>
+                    <a href="https://twitch.tv/razii"><i class="fab fa-twitch"></i></a>
+                    <a href="https://www.youtube.com/channel/UCSEJF2oK9dVivCx38DwXHHA"><i class="fab fa-youtube"></i></a>
+                </div>
+                <div class="player">
+                    <div class="player-infos">
                         <p class="player-name">Taakunzz</p>
                         <p class="player-role">Joueur</p>
                     </div>
