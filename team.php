@@ -91,11 +91,10 @@
             <div class="players">
                 <div class="player">
                     <div class="player-infos">
-                        <p class="player-name">Neozz</p>
+                        <p class="player-name">Ben</p>
                         <p class="player-role">Manager</p>
                     </div>
-                    <a href="https://twitter.com/NeozZLD"><i class="fab fa-twitter"></i></a>
-                    <a href="https://twitch.tv/neozzld"><i class="fab fa-twitch"></i></a>
+                    <a href="https://twitter.com/Loud_BenP"><i class="fab fa-twitter"></i></a>
                 </div>
                 <div class="player">
                     <div class="player-infos">
@@ -118,14 +117,6 @@
                         <p class="player-role">Joueur</p>
                     </div>
                     <a href="https://twitter.com/Focuserino"><i class="fab fa-twitter"></i></a>
-                </div>
-                <div class="player">
-                    <div class="player-infos">
-                        <p class="player-name">Granady</p>
-                        <p class="player-role">Joueur</p>
-                    </div>
-                    <a href="https://twitter.com/GranaDyy"><i class="fab fa-twitter"></i></a>
-                    <a href="https://www.youtube.com/user/skilley77"><i class="fab fa-youtube"></i></a>
                 </div>
                 <div class="player">
                     <div class="player-infos">
@@ -152,14 +143,6 @@
                     <a href="https://twitter.com/Taakunzz1"><i class="fab fa-twitter"></i></a>
                     <a href="https://twitch.tv/TaakunzzTv"><i class="fab fa-twitch"></i></a>
                     <a href="https://www.youtube.com/channel/UC6ya9Ooqik9ewxnVRYtHtwQ"><i class="fab fa-youtube"></i></a>
-                </div>
-                <div class="player">
-                    <div class="player-infos">
-                        <p class="player-name">Vortax</p>
-                        <p class="player-role">Joueur</p>
-                    </div>
-                    <a href="https://www.twitter.com/tmVortaX"><i class="fab fa-twitter"></i></a>
-                    <a href="https://www.twitch.tv/tmVortaX"><i class="fab fa-twitch"></i></a>
                 </div>
             </div>
         </div>
