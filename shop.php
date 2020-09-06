@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Jetez un coup d'oeil à nos articles et portez nos couleurs">
     <title>Loud Esport</title>
     <link rel="shortcut icon" href="./images/logo_emote.png" type="image/x-icon">
     <link rel="stylesheet" href="./css/style.css">
