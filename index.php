@@ -16,7 +16,7 @@
             <div class="tab large" id="shop">
             <img src="./images/Maillot_loud-01.png" alt="Maillot">
             <p class="tab-title">Portez nos couleurs</p>
-                <a href="https://eliminate.fr/product-category/loud-esport/">
+                <a href="https://eliminate.fr/product-category/loud-esport/" target="_blank" rel="nofollow noopener noreferrer">
                     <div class="button">
                         <p><i class="fas fa-shopping-cart"></i> Commander</p>
                     </div>
@@ -24,14 +24,14 @@
             </div>
             <div class="tab small">
                 <p class="tab-title">Notre actualité</p>
-                <a class="button" href="https://twitter.com/EsportLoud" data-size="large"><i class="fab fa-twitter"></i> Suivre</a>
-                <a href="https://discord.gg/YPXdEEy" class="button"><i class="fab fa-discord"></i> Rejoindre</a>
+                <a class="button" href="https://twitter.com/EsportLoud" data-size="large" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i> Suivre</a>
+                <a href="https://discord.gg/YPXdEEy" class="button" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-discord"></i> Rejoindre</a>
             </div>
             <div class="tab medium">
                 <p class="tab-title">Nos directs</p>
                 <p id="status"></p>
                 <div class="buttons">
-                    <a href="https://www.twitch.tv/loudesporttv" class="button" id="follow"><i class="fas fa-user-plus"></i> Suivre</a>
+                    <a href="https://www.twitch.tv/loudesporttv" class="button" id="follow" target="_blank" rel="nofollow noopener noreferrer"><i class="fas fa-user-plus"></i> Suivre</a>
                     <a href="./live.php" class="button" id="join"><i class="fas fa-play"></i> Rejoindre</a>
                 </div>
             </div>

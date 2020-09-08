@@ -12,7 +12,7 @@
         <div class="categories">
             <h2>Contacts</h2>
             <a href="mailto:loudesport@gmail.com">E-Mail</a>
-            <a href="https://www.twitter.com/EsportLoud">Twitter</a>
+            <a href="https://www.twitter.com/EsportLoud" target="_blank" rel="nofollow noopener noreferrer">Twitter</a>
         </div>
         <div class="categories">
             <h2>Conditions</h2>

@@ -19,13 +19,13 @@
                 <img src="./images/Maillot_loud-01.png" alt="Maillot 2019-2020">
                 <h2>Maillot Officiel 2019-2020</h2>
                 <p class="product-info">35.00 €</p>
-                <a href="https://eliminate.fr/product/loud-esport-player-jersey/" class="button"><i class="fas fa-shopping-cart"></i> Commander</a>
+                <a href="https://eliminate.fr/product/loud-esport-player-jersey/" class="button" target="_blank" rel="nofollow noopener noreferrer"><i class="fas fa-shopping-cart"></i> Commander</a>
             </div>
             <div class="product-card" id="new">
                 <img src="./images/Maillot_loud-01.png" alt="Maillot 2019-2020">
                 <h2>Bientôt disponible</h2>
                 <p class="product-info">Sortie en Septembre</p>
-                <a href="#" class="button" id="wait-btn"><i class="fas fa-clock"></i> Patienter</a>
+                <a href="#" class="button" id="wait-btn" target="_blank" rel="nofollow noopener noreferrer"><i class="fas fa-clock"></i> Patienter</a>
             </div>
         </div>
     </div>
