@@ -6,7 +6,7 @@
             <a href="https://discord.com/invite/YPXdEEy"><i class="fab fa-discord"></i></a>
             <a href="https://www.twitch.tv/loudesporttv"><i class="fab fa-twitch"></i></a>
         </div>
-        <p>Tous droits réservés - Loud Esport - <span id="date"></span> - Hébergé par Synhostinger - V1.0.0</p>
+        <p>Tous droits réservés - Loud Esport - <span id="date"></span> - Hébergé par Synhostinger - V1.0.1</p>
     </div>
     <div class="right-part">
         <div class="categories">
