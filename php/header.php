@@ -1,8 +1,11 @@
 <header>
-    <div class="logo">
-        <img src="./images/logo_emote.png" alt="Logo">
-        <h1>Loud Esport</h1>
-    </div>
+    <a href="./index.php">
+        <div class="logo">
+            <img src="./images/logo_emote.png" alt="Logo">
+            <h1>Loud Esport</h1>
+        </div>
+    </a>
+    
     <nav>
         <ul>
             <li>
