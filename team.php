@@ -26,11 +26,29 @@
                 </div>
                 <div class="player">
                     <div class="player-infos">
+                        <p class="player-name">Junk</p>
+                        <p class="player-role">Joueur</p>
+                    </div>
+                </div>
+                <div class="player">
+                    <div class="player-infos">
                         <p class="player-name">Magman</p>
                         <p class="player-role">Joueur</p>
                     </div>
                     <a href="https://twitter.com/magmanxfifa" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
                     <a href="https://www.twitch.tv/loudmagman" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitch"></i></a>
+                </div>
+                <div class="player">
+                    <div class="player-infos">
+                        <p class="player-name">NeiXOo</p>
+                        <p class="player-role">Joueur</p>
+                    </div>
+                </div>
+                <div class="player">
+                    <div class="player-infos">
+                        <p class="player-name">Pxseyhh</p>
+                        <p class="player-role">Joueur</p>
+                    </div>
                 </div>
                 <div class="player">
                     <div class="player-infos">
@@ -84,75 +102,6 @@
                     </div>
                     <a href="https://www.twitter.com/Loud_SupoZitWar" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
                     <a href="https://www.twitch.tv/SupoZitWar333" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitch"></i></a>
-                </div>
-            </div>
-        </div>
-        <div class="team" id="tm">
-            <h2 class="team-title">Trackmania <i class="fas fa-flag-checkered"></i></h2>
-            <div class="players">
-                <div class="player">
-                    <div class="player-infos">
-                        <p class="player-name">Ben</p>
-                        <p class="player-role">Manager</p>
-                    </div>
-                    <a href="https://twitter.com/Loud_BenP" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
-                </div>
-                <div class="player">
-                    <div class="player-infos">
-                        <p class="player-name">Rodeur</p>
-                        <p class="player-role">Manager</p>
-                    </div>
-                    <a href="https://twitter.com/Rodeur77_" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
-                    <a href="https://www.twitch.tv/rodeur" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitch"></i></a>
-                </div>
-                <div class="player">
-                    <div class="player-infos">
-                        <p class="player-name">Dionysos</p>
-                        <p class="player-role">Joueur</p>
-                    </div>
-                    <a href="https://twitter.com/loud_dionysos" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
-                </div>
-                <div class="player">
-                    <div class="player-infos">
-                        <p class="player-name">Focus</p>
-                        <p class="player-role">Joueur</p>
-                    </div>
-                    <a href="https://twitter.com/Focuserino" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
-                </div>
-                <div class="player">
-                    <div class="player-infos">
-                        <p class="player-name">HeadHunter</p>
-                        <p class="player-role">Joueur</p>
-                    </div>
-                    <a href="https://www.twitter.com/HeadHunter4K" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
-                    <a href="https://www.twitch.tv/headhunter4k" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitch"></i></a>
-                </div>
-                <div class="player">
-                    <div class="player-infos">
-                        <p class="player-name">Javzo</p>
-                        <p class="player-role">Joueur</p>
-                    </div>
-                    <a href="https://twitter.com/Javzox" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
-                    <a href="https://www.twitch.tv/Javzo" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitch"></i></a>
-                    <a href="https://www.youtube.com/channel/UCNbjYUPA3pDKyaEtlg4uUmg" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-youtube"></i></a>
-                </div>
-                <div class="player">
-                    <div class="player-infos">
-                        <p class="player-name">Razii</p>
-                        <p class="player-role">Joueur</p>
-                    </div>
-                    <a href="https://twitter.com/raziinho" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
-                    <a href="https://twitch.tv/razii" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitch"></i></a>
-                    <a href="https://www.youtube.com/channel/UCSEJF2oK9dVivCx38DwXHHA" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-youtube"></i></a>
-                </div>
-                <div class="player">
-                    <div class="player-infos">
-                        <p class="player-name">Taakunzz</p>
-                        <p class="player-role">Joueur</p>
-                    </div>
-                    <a href="https://twitter.com/Taakunzz1" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
-                    <a href="https://twitch.tv/TaakunzzTv" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitch"></i></a>
-                    <a href="https://www.youtube.com/channel/UC6ya9Ooqik9ewxnVRYtHtwQ" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-youtube"></i></a>
                 </div>
             </div>
         </div>
