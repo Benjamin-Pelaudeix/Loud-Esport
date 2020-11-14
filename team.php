@@ -26,11 +26,23 @@
                 </div>
                 <div class="player">
                     <div class="player-infos">
+                        <p class="player-name">Junk</p>
+                        <p class="player-role">Joueur</p>
+                    </div>
+                </div>
+                <div class="player">
+                    <div class="player-infos">
                         <p class="player-name">Magman</p>
                         <p class="player-role">Joueur</p>
                     </div>
                     <a href="https://twitter.com/magmanxfifa" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
                     <a href="https://www.twitch.tv/loudmagman" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitch"></i></a>
+                </div>
+                <div class="player">
+                    <div class="player-infos">
+                        <p class="player-name">NeiXOo</p>
+                        <p class="player-role">Joueur</p>
+                    </div>
                 </div>
                 <div class="player">
                     <div class="player-infos">
@@ -44,54 +56,6 @@
                         <p class="player-role">Joueur</p>
                     </div>
                     <a href="https://twitter.com/Loud_Stenzak" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
-                </div>
-            </div>
-        </div>
-        <div class="team" id="fifa">
-            <h2 class="team-title">Fifa Club Pro <i class="fas fa-futbol"></i></h2>
-            <div class="players">
-                <div class="player">
-                    <div class="player-infos">
-                        <p class="player-name">Bobby44550</p>
-                        <p class="player-role">Manager</p>
-                    </div>
-                    <a href="https://twitter.com/bobby44550" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
-                </div>
-                <div class="player">
-                    <div class="player-infos">
-                        <p class="player-name">Jilo_x12</p>
-                        <p class="player-role">Manager</p>
-                    </div>
-                    <a href="https://twitter.com/Jilo_x12" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
-                    <a href="https://www.twitch.tv/loud_esport_cp" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitch"></i></a>
-                </div>
-                <div class="player">
-                    <div class="play-infos">
-                        <p class="player-name">Loud_Killian06</p>
-                        <p class="player-role">Manager</p>
-                    </div>
-                    <a href="https://twitter.com/Loud_Killian06" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
-                </div>
-                <div class="player">
-                    <div class="player-infos">
-                        <p class="player-name">Loud_Theo-40</p>
-                        <p class="player-role">Manager</p>
-                    </div>
-                    <a href="https://www.twitter.com/Loud_Theo-40" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
-                </div>
-            </div>
-        </div>
-        <div class="team" id="fortnite">
-            <h2 class="team-title">Fortnite <i class="fas fa-crown"></i></h2>
-            <div class="players">
-                <div class="player">
-                    <div class="player-infos">
-                        <p class="player-name">H0rraz</p>
-                        <p class="player-role">Joueur</p>
-                    </div>
-                    <a href="https://www.twitter.com/h0rraz" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
-                    <a href="https://www.twitch.tv/horraz_" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitch"></i></a>
-                    <a href="https://www.youtube.com/channel/UCouoApoIj_x64ZwGEfhhV_Q" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-youtube"></i></a>
                 </div>
             </div>
         </div>
@@ -141,35 +105,6 @@
                 </div>
             </div>
         </div>
-        <div class="team" id="smash">
-            <h2 class="team-title">Smash <i class="fas fa-fist-raised"></i></h2>
-            <div class="players">
-                <div class="player">
-                    <div class="player-infos">
-                        <p class="player-name">Sinogara</p>
-                        <p class="player-role">Joueur</p>
-                    </div>
-                    <a href="https://www.twitter.com/Aragonis1" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
-                    <a href="https://www.twitch.tv/sinogara_smash" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitch"></i></a>
-                    <a href="https://www.youtube.com/channel/UCRH6gg4B8lsh2YjHvdbK1fg" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-youtube"></i></a>
-                </div>
-            </div>
-        </div>
-        <div class="team" id="webtv">
-            <h2 class="team-title">Web TV <i class="fas fa-video"></i></h2>
-            <div class="players">
-                <div class="player">
-                    <div class="player-infos">
-                        <p class="player-name">Cloudfubuki</p>
-                        <p class="player-role">Streameur</p>
-                    </div>
-                    <a href="https://www.twitter.com/cloudfubuki" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
-                    <a href="https://www.twitch.tv/cloudfubuki" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitch"></i></a>
-                    <a href="https://www.youtube.com/channel/kira29200" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-youtube"></i></a>
-                </div>
-            </div>
-        </div>
-
     </div>
     <?php include('./php/footer.php') ?>
     <?php include('./php/nav-mobile.php') ?>
