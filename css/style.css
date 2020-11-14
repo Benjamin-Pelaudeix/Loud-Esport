@@ -283,6 +283,23 @@ body {
     background-size: cover;
     background-position: center;
 }
+#fortnite {
+     background-image: url(../images/fortnite.jpg);
+     background-size: cover;
+     background-position: center;
+}
+#smash {
+      background-image: url(../images/smash.jpg);
+      background-size: cover;
+      background-position: center;
+}
+#webtv {
+    background-image: url(../images/webtv.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+
 /*shop*/
 .products {
     display: flex;
