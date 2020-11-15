@@ -13,7 +13,7 @@
     <?php include('./php/header.php') ?>
     <div class="container">
         <h1 class="title">Le club</h1>
-        <p class="infos">Loud Esport est une association e-sportive créée en Juin 2018 ayant pour but d'accompagner les jeunes pandas dans leur carrière de joueur compétitif. Actuellement, nous développons 3 sections : FIFA, Hearthstone et Trackmania !</p>
+        <p class="infos">Loud Esport est une association e-sportive créée en Juin 2018 ayant pour but d'accompagner les jeunes pandas dans leur carrière de joueur compétitif. Actuellement, nous développons 6 sections : FIFA 1v1, FIFA 11v11, Fortnite, Hearthstone et Smash Bros !</p>
         <h1 class="title">Découvrez nos recrues</h1>
         <div class="buttons">
             <a href="./team.php" class="button"><i class="fas fa-users"></i> Découvrir</a>
@@ -79,15 +79,6 @@
         <h1 class="title">Nos partenaires</h1>
         <p class="infos">Afin de permettre à nos jeunes pandas de s'épanouir, certaines marques ont rejoint nos rangs et nous aident au quotidien. Un grand MERCI à eux !</p>
         <div class="products">
-            <div class="product-card">
-                <img src="./images/synhostinger.jpg" alt="">
-                <h2>Synhostinger</h2>
-                <p class="product-info sponsor">Synhostinger est une entreprise française proposant des solutions d'hébergements pour site Web ou serveurs privés virtuels (VPS) avec des tarifs défiant toutes concurrences.<br>Faites un tour sur leur site pour découvrir leurs produits, et rejoignez leur Discord !</p>
-                <div class="buttons">
-                    <a href="https://www.synhostinger.com/accueil" class="button" target="_blank" rel="nofollow noopener noreferrer"><i class="fas fa-globe"></i> Site Web</a>
-                    <a href="https://discord.gg/MMBWqDM" class="button" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-discord"></i> Discord</a>
-                </div>
-            </div>
             <div class="product-card">
                 <i class="fas fa-handshake" id="image"></i>
                 <h2>Devenir partenaire</h2>
