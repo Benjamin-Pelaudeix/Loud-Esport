@@ -60,6 +60,14 @@
             </div>
             <div class="player">
                 <div class="player-infos">
+                    <p class="player-name">Fiddle</p>
+                    <p class="player-role">Graphiste</p>
+                </div>
+                <a href="https://twitter.com/FiddleBE" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitter"></i></a>
+                <a href="https://twitch.tv/FiddleBE" target="_blank" rel="nofollow noopener noreferrer"><i class="fab fa-twitch"></i></a>
+            </div>
+            <div class="player">
+                <div class="player-infos">
                     <p class="player-name">Crodaliox</p>
                     <p class="player-role">Resp. Événementiel</p>
                 </div>
