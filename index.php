@@ -29,7 +29,7 @@
         </div>
         <div class="tab medium">
             <p class="tab-title">Nos directs</p>
-            <p id="status">Lancement le 18/11/2020 à 18:00</p>
+            <p id="status">Lancement le 15/11/2020 à 18:00</p>
             <div class="buttons">
                 <a href="https://www.twitch.tv/loudesporttv" class="button" id="follow" target="_blank" rel="nofollow noopener noreferrer"><i class="fas fa-user-plus"></i> Suivre</a>
                 <a href="./live.php" class="button" id="join"><i class="fas fa-play"></i> Rejoindre</a>
